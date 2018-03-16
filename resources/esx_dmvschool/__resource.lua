@@ -20,15 +20,15 @@ client_scripts {
   'client/main.lua'
 }
 
-ui_page 'html/ui.html'
+ui_page 'html/ui_en.html'
 
 files {
-  'html/ui.html',
+  'html/ui_en.html',
   'html/logo.png',
   'html/dmv.png',
   'html/cursor.png',
   'html/styles.css',
-  'html/questions.js',
+  'html/questions_en.js',
   'html/scripts.js',
   'html/debounce.min.js'
 }
